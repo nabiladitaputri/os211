@@ -9,9 +9,14 @@ ZCZC W00 45 L01 SCELE related
 ZCZC W00 35 L06 Reading W00 slide
 ZCZC W00 45 L22 YouTube: study
 ZCZC W00 40 L05 GSGS related
-ZCZC W01 60 L11 Assignment #1
+ZCZC W01 90 L11 Assignment #1
 ZCZC W01 30 L12 Assignment #2
-ZCZC W01 20 L13 Assignment #3
-ZCZC W01 20 L14 Assignment #4
-ZCZC W01 20 L15 Assignment #5
+ZCZC W01 25 L13 Assignment #3
+ZCZC W01 25 L14 Assignment #4
+ZCZC W01 25 L15 Assignment #5
 ZCZC W01 10 L16 Assignment #6
+ZCZC W01 30 L16 Assignment #7
+ZCZC W01 25 L16 Assignment #8
+ZCZC W01 90 L02 Zoom meeting
+ZCZC W01 30 L23 Discord: Quiz
+ZCZC W01 30 L01 SCELE: Quiz
