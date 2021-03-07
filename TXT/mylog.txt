@@ -15,8 +15,8 @@ ZCZC W01 25 L13 Assignment #3
 ZCZC W01 25 L14 Assignment #4
 ZCZC W01 25 L15 Assignment #5
 ZCZC W01 10 L16 Assignment #6
-ZCZC W01 30 L16 Assignment #7
-ZCZC W01 25 L16 Assignment #8
+ZCZC W01 30 L17 Assignment #7
+ZCZC W01 25 L18 Assignment #8
 ZCZC W01 90 L02 Zoom meeting
 ZCZC W01 30 L23 Discord: Quiz
 ZCZC W01 30 L01 SCELE: Quiz
