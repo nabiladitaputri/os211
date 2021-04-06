@@ -39,3 +39,10 @@ ZCZC W04 25 L01 SCELE: Quiz
 ZCZC W04 15 L23 Discord related
 ZCZC W04 60 L05 GSGS related
 ZCZC W04 40 L22 Youtube: study
+ZCZC W05 60 L05 GSGS related
+ZCZC W05 100 L02 Zoom related
+ZCZC W05 120 L10 Assignment general
+ZCZC W05 25 L01 SCELE: Quiz
+ZCZC W05 15 L23 Discord related
+ZCZC W05 20 L22 Youtube: study
+ZCZC W05 30 L06 Reading references
