@@ -67,3 +67,7 @@ ZCZC W08 60 L05 GSGS related
 ZCZC W08 30 L01 SCELE: Quiz
 ZCZC W08 30 L06 reading slides, references
 ZCZC W08 180 L10 assignment general
+ZCZC W09 100 L02 Zoom Related
+ZCZC W09 30 L23 Discord related
+ZCZC W09 45 L22 Youtube related
+ZCZC W09 45 L06 reading slides, references
